@@ -1,4 +1,4 @@
-# Hi there, I'm Paras - aka [DaNnyKg] 👋
+# Hi there, I'm Paras - aka [DaNnyKg] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
 ## I'm a Student and a Developer!!
@@ -57,13 +57,14 @@
 
   #### ⭐  Statistics and Languages
   
-   <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=DaNnyKg07&count_private=true&show_icons=true alt=DaNnyKg07 height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNnyKg07&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact" alt="DaNnyKg07
+   <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=DaNnyKg07&theme=algolia&count_private=true&show_icons=true alt=DaNnyKg07 height="165" />
+   &nbsp &nbsp &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNnyKg07&theme=algolia&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact" alt="DaNnyKg07
 " height="165" />
  </p>
  <p align="center"> 
- <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DaNnyKg07&show_icons=true" />
+ <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DaNnyKg07&theme=algolia&show_icons=true" />
   </p>
+  
 
 
 [twitter]: https://twitter.com/DaNnyKg07?s=08
